@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm David Castillo</h1>
-<h3 align="center">An Electrical Engineer from New Mexico 🌶️</h3>
+<h3 align="center">An Electrical Engineer from New Mexico 🌶️👽</h3>
 
-- 🔭 I’m currently working on [Combat Robot](https://github.com/r3tr0-dave/BattleBot.git)
+- 🔭 I’m currently working on a [Combat Robot](https://github.com/r3tr0-dave/BattleBot.git)
 
-- 🌱 I’m currently learning **Electrical Engineering at NMT**
+- 🤖 Some future projects like I would like to a Sandrail, High Powered Rocket, Industrial 6 axis robot arm, and a lot more on the way.
+
+- ![Alt text] (/![Diy Rocket](https://github.com/user-attachments/assets/970aaa36-798d-4577-bffa-6b5854b4cf5a)
+
+
+- 🌱 I’m currently learning **[Electrical Engineering at NMT](https://nmt.edu/academics/eleceng/index.php)**
 
 - 📫 How to reach me **castillodavid99150@gmail.com**
 
