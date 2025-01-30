@@ -5,7 +5,12 @@
 
 - 🤖 Some future projects like I would like to a Sandrail, High Powered Rocket, Industrial 6 axis robot arm, and a lot more on the way.
 
-- ![Alt text] (/![Diy Rocket](https://github.com/user-attachments/assets/970aaa36-798d-4577-bffa-6b5854b4cf5a)
+- /![Diy Rocket](https://github.com/user-attachments/assets/970aaa36-798d-4577-bffa-6b5854b4cf5a)
+  
+- ![6 Axis Robot Arm Example](https://github.com/user-attachments/assets/6078cc11-fd2b-4086-a6be-35c98d4eb5bf)
+
+- ![Example-Sand-Rail](https://github.com/user-attachments/assets/14febc9a-e87d-4fca-a13e-cf0e238dcb55)
+
 
 
 - 🌱 I’m currently learning **[Electrical Engineering at NMT](https://nmt.edu/academics/eleceng/index.php)**
